@@ -1,4 +1,4 @@
-# C-Simplier-MTP
+# C-Sharp-Simplier-MTP
 Simplifies the MTP protocol to the familiar System.IO function names 
 
 
